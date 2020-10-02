@@ -1,13 +1,14 @@
 # Pokemon-AI
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 Diberikan data pokemon berupa informasi karakteristik masing masing. Dilakukan sebuah preprocessing dan analisis data. Tugasnya adalah apa saja yang dapat dilakukan dengan data tersebut ?
 
-## Project Step by Step
+## :ticket: Project Step by Step
 1. Preprocessing data (Cleaning data, data conversion, feature selection, feature extraction)
 3. Visualiasi data (Membuat grafik, bar, memvisualisasikan korelasi antar data)
 4. Analisis data (Diperoleh kesimpulan, apa saja yang dapat dilakukan dengan data tersebut)
 5. Machine Learning (Membuat permodelan dan melakukan tugas yang bisa dilakukan)
 
-# Tugas Ditemukan
+# :sparkles: Tugas Ditemukan
 ## Binary Classification
 Melakukan Klasifikasi binary body style pokemon. Apakah pokemon tersebut memiliki body style `bipedal_tailed` atau `quadruped` berdasarkan data `['HP','Attack','Defense','Sp_Atk','Sp_Def','Speed']`
 
